@@ -1,6 +1,6 @@
-fieldmap_name:     	Corrector_Booster_Model02
+fieldmap_name:     	Corrector_Booster_Model02_CH
 timestamp:         	2016-11-28_12-56-06
-filename:          	2016-11-28_Corrector_Model02_Sim_X=-20_20mm_Z=-300_300mm_I=9A.txt
+filename:          	2016-11-28_Corrector_Model02_Sim_CH_X=-20_20mm_Z=-300_300mm_Imc=9A.txt
 nr_magnets:        	1
 
 magnet_name:       	Corrector_Booster
