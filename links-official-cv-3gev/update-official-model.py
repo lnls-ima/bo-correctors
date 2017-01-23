@@ -7,7 +7,7 @@ import os
 import sys
 
 readme_template = [
-'Sirius Booster CH correctors',
+'Sirius Booster CV correctors',
 '============================',
 '',
 'current official model version : MODEL_VERSION',
@@ -103,7 +103,7 @@ def copy_files(r):
     os.system('cp -raf ../' + r['magnet_model_version'] + '/analysis/fieldmap/' + r['fmap_analysis_folder'] + '/field_on_trajectory.txt ./')
     os.system('cp -raf ../' + r['magnet_model_version'] + '/analysis/fieldmap/' + r['fmap_analysis_folder'] + '/multipoles.txt ./')
     os.system('cp -raf ../' + r['magnet_model_version'] + '/analysis/fieldmap/' + r['fmap_analysis_folder'] + '/trajectory.txt ./')
-    os.system('cp -raf ../' + r['magnet_model_version'] + '/analysis/fieldmap/' + r['fmap_analysis_folder'] + '/*.svg ./')
+    #os.system('cp -raf ../' + r['magnet_model_version'] + '/analysis/fieldmap/' + r['fmap_analysis_folder'] + '/*.svg ./')
 
 def main(argv):
     print('selecting analysed rawfield file...')

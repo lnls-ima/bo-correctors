@@ -1,11 +1,11 @@
-Sirius Booster CH correctors
+Sirius Booster CV correctors
 ============================
 
 current official model version : model-02
 
-fieldmap analysis folder       : ch-3gev
+fieldmap analysis folder       : cv-3gev
 
-fieldmap file                  : 2016-11-28_Corrector_Model02_Sim_CH_X=-20_20mm_Z=-300_300mm_Imc=9A.txt
+fieldmap file                  : 2017-01-16_Corrector_Model02_Sim_CV_X=-20_20mm_Z=-300_300mm_Imc=9A.txt
 
 
 Observations
