@@ -4,11 +4,11 @@
 file                           	C:\Users\labimas\Desktop\Lote Piloto Booster\Corretoras\Medidas_2015\BC037\Fonte_Bipolar_10A\Curva_01\BC037_D_BOB_-0001A_150504_171649.dat
 date                           	04/05/2015
 hour                           	17:16:49
-temperature(ºC)             	0
+temperature(Â°C)                	24
 integrator_gain                	100
 nr_integration_points          	144
 velocity(rps)                	1.0
-acceleration(rps^2)              	0.5
+acceleration(rps^2)            	0.5
 nr_collections                 	14
 nr_turns                       	10
 analysis_interval              	6-26
@@ -27,11 +27,11 @@ n_turns_main_coil              	10
 main_coil_internal_radius(m) 	0
 main_coil_external_radius(m) 	0.01815
 n_turns_bucked_coil            	0
-bucked_coil_internal_radius(m)  	0
-bucked_coil_external_radius(m)  	0
+bucked_coil_internal_radius(m) 	0
+bucked_coil_external_radius(m) 	0
 
 ### Comments ###
-comments                       	Curva de Excitação da Corretora Lote Piloto do Booster. Fonte de Alimentação BCB010/010B. N. Série 014/00. Corretoras cicladas antes e depois da curva de excitação.
+comments                       	Curva de ExcitaÃ§Ã£o da Corretora Lote Piloto do Booster. Fonte de AlimentaÃ§Ã£o BCB010/010B. N. SÃ©rie 014/00. Corretoras cicladas antes e depois da curva de excitaÃ§Ã£o.
 
 
 
